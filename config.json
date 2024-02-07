@@ -1,0 +1,5 @@
+{
+    "api_key": "YOUR_API_KEY",
+    "token": "YOUR_TELEGRAM_BOT_TOKEN",
+    "channel_id": "YOUR_CHANNEL_ID"
+}
