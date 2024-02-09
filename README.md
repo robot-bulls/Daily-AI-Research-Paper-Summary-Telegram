@@ -1,7 +1,11 @@
 ![](examples/example.png)
 
-# AI Research Paper Summarizer for Telegram
-The Paper Summarizer is a Python script designed to fetch recent submissions from arXiv's Computer Science category, extract and summarize text from the linked PDFs, and then send these summaries to the specified Telegram channel. You can view the results in this [Telegram channel](https://t.me/robotbulls_ai_papers).
+# AI Research Paper Scraper Telegram
+The AI Research Paper Scraper Telegram is a Python script designed to fetch recent submissions from arXiv's Computer Science category, extract and summarize text from the linked PDFs, and then send these summaries to the specified Telegram channel. You can view the results in this Telegram channel: @[robotbulls_ai_papers](https://t.me/robotbulls_ai_papers).
+
+This script get the 3 best papers daily and posts it on this Telegram channel. You can change this number in the script. 
+
+Right now it gets the 3 most interesting papers for computer science but you can change the subject to math, physics etc.
 
 ## Installation
 
